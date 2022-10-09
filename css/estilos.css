@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.section_dark {
+    color: white;
+    background-color: black;
+}
+.section_white {
+    color: black;
+    background-color: #f5f5f7;
+}
+.contenedor {
+    width: 736px;
+    margin: auto;
+    text-align: center;
+}
+.alineacion_central {
+    text-align: center;
+}
+.texto_destacado1 {
+    font-size: 28px;
+    padding: 30px;
+}
+.texto_destacado2 {
+    font-size: 19px;
+    padding: 20px;
+}
+.sub_destacado {
+    font-size: 14px;
+    line-height: 17px;
+    color:#78787c ;
+    padding: 20px;
+}
+.links {
+    font-size: 17px;
+    text-decoration: none;
+    padding: 20px;
+}
+.links:hover {
+    text-decoration: underline;
+}
+.links-white {
+    color: white;
+    text-decoration: none;
+}
+.links-white:hover {
+    color: white;
+    text-decoration: underline;
+}
+.espaciado_superior {
+    padding-top: 100px;
+}
+.espaciado_inferior {
+    margin-bottom: 100px;
+}
